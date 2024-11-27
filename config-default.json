@@ -1,0 +1,22 @@
+{
+    "espocrm": {
+        "repository": "https://github.com/espocrm/espocrm.git",
+        "branch": "stable"
+    },
+    "database": {
+        "host": "db",
+        "port": null,
+        "charset": "utf8mb4",
+        "dbname": "espocrm",
+        "user": "root",
+        "password": ""
+    },
+    "install": {
+        "language": "en_US",
+        "defaultOwner": "",
+        "defaultGroup": "",
+        "siteUrl": "http://localhost:8080",
+        "adminUsername": "admin",
+        "adminPassword": "1"
+    }
+}

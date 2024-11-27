@@ -1,0 +1,6 @@
+{
+    "psr-4": {
+        "Http\\Discovery\\": "custom/Espo/Modules/Gotenberg/vendor/http-discovery/http-discovery/src",
+        "Gotenberg\\": "custom/Espo/Modules/Gotenberg/vendor/gotenberg/gotenberg-php/src"
+    }
+}

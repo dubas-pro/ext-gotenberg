@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "*": ["site/client/src/*"],
+            "modules/crm/*": ["site/client/modules/crm/src/*"],
+            "crm:*": ["site/client/modules/crm/src/*"],
+            "modules/gotenberg/*": ["src/files/client/custom/modules/gotenberg/src/*"],
+            "gotenberg:*": ["src/files/client/custom/modules/gotenberg/src/*"]
+        },
+        "module": "ES6",
+        "target": "ES2018"
+    },
+    "exclude": [
+        "**/.cache",
+        "**/.git",
+        "**/build",
+        "**/lib/transpiled",
+        "**/node_modules",
+        "**/site",
+        "**/vendor"
+    ]
+}

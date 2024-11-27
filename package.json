@@ -1,0 +1,31 @@
+{
+    "name": "espocrm-ext-gotenberg",
+    "version": "0.0.1",
+    "description": "",
+    "engines": {
+        "npm": ">=7",
+        "node": ">=15"
+    },
+    "scripts": {
+        "postversion": "git push --follow-tags",
+        "js:fix": "eslint --fix src/**/src/**/*.js",
+        "json:fix": "prettier --write src/**/*.json",
+        "php:fix": "composer exec ecs -- --fix --clear-cache",
+        "phpstan": "composer exec phpstan -- --xdebug",
+        "rector": "composer exec rector -- --clear-cache",
+        "fix:all": "npm run js:fix && npm run json:fix && npm run php:fix",
+        "json:sort": "jsonsort --indentationCount 4 src/**/Resources/i18n/** src/**/Resources/metadata/scopes/**"
+    },
+    "type": "module",
+    "author": "dubas s.c. - contact@dubas.pro",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "@babel/eslint-parser": "^7.23.3",
+        "eslint": "^7.25.0",
+        "eslint-plugin-header": "^3.1.1",
+        "espo-extension-tools": "github:espocrm/extension-tools#0.2.0",
+        "fs-extra": "^9.0.0",
+        "json-sort-cli": "^4.0.3",
+        "prettier": "^2.6.2"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "gotenbergApiUrl": {
+            "type": "varchar",
+            "required": true
+        }
+    },
+    "allowUserAccounts": false,
+    "view": "views/admin/integrations/edit"
+}

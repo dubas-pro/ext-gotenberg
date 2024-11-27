@@ -1,0 +1,161 @@
+{
+    "Gotenberg": {
+        "implementationClassNameMap": {
+            "entity": "Espo\\Modules\\Gotenberg\\Engine\\EntityPrinter"
+        },
+        "fontFaceList": [
+            "AR PL UKai CN",
+            "AR PL UKai HK",
+            "AR PL UKai TW",
+            "AR PL UKai TW MBE",
+            "AR PL UMing CN",
+            "AR PL UMing HK",
+            "AR PL UMing TW",
+            "AR PL UMing TW MBE",
+            "Abyssinica SIL",
+            "Amiri",
+            "Andale Mono",
+            "Arial",
+            "Arial Black",
+            "Caladea",
+            "Carlito",
+            "Comic Sans MS",
+            "Courier New",
+            "DejaVu Math TeX Gyre",
+            "DejaVu Sans",
+            "DejaVu Sans Mono",
+            "DejaVu Serif",
+            "Garuda",
+            "Gentium",
+            "Gentium Basic",
+            "Gentium Book Basic",
+            "GentiumAlt",
+            "Georgia",
+            "IPAGothic",
+            "IPAMincho",
+            "IPAPGothic",
+            "IPAPMincho",
+            "Impact",
+            "Kinnari",
+            "Laksaman",
+            "Liberation Mono",
+            "Liberation Sans",
+            "Liberation Sans Narrow",
+            "Liberation Serif",
+            "Linux Biolinum Keyboard O",
+            "Linux Biolinum O",
+            "Linux Libertine Display O",
+            "Linux Libertine Mono O",
+            "Linux Libertine O",
+            "Lohit Telugu",
+            "Loma",
+            "Norasi",
+            "Noto Mono",
+            "Noto Sans",
+            "Noto Sans CJK HK",
+            "Noto Sans CJK JP",
+            "Noto Sans CJK KR",
+            "Noto Sans CJK SC",
+            "Noto Sans CJK TC",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Sans Mono CJK HK",
+            "Noto Sans Mono CJK JP",
+            "Noto Sans Mono CJK KR",
+            "Noto Sans Mono CJK SC",
+            "Noto Sans Mono CJK TC",
+            "Noto Serif",
+            "Noto Serif CJK HK",
+            "Noto Serif CJK JP",
+            "Noto Serif CJK KR",
+            "Noto Serif CJK SC",
+            "Noto Serif CJK TC",
+            "Noto Serif Display",
+            "Padauk",
+            "Padauk Book",
+            "Purisa",
+            "Sawasdee",
+            "Times New Roman",
+            "Tlwg Mono",
+            "Tlwg Typewriter",
+            "Tlwg Typist",
+            "Tlwg Typo",
+            "Trebuchet MS",
+            "Umpush",
+            "UnBatang",
+            "UnDinaru",
+            "UnDotum",
+            "UnGraphic",
+            "UnGungseo",
+            "UnPilgi",
+            "Verdana",
+            "Waree",
+            "WenQuanYi Zen Hei",
+            "WenQuanYi Zen Hei Mono",
+            "WenQuanYi Zen Hei Sharp"
+        ],
+        "htmlHeadItemList": [],
+        "paperSizeList": {
+            "A0": {
+                "width": 841,
+                "height": 1189,
+                "unit": "mm"
+            },
+            "A1": {
+                "width": 594,
+                "height": 841,
+                "unit": "mm"
+            },
+            "A2": {
+                "width": 420,
+                "height": 594,
+                "unit": "mm"
+            },
+            "A3": {
+                "width": 297,
+                "height": 420,
+                "unit": "mm"
+            },
+            "A4": {
+                "width": 210,
+                "height": 297,
+                "unit": "mm"
+            },
+            "A5": {
+                "width": 148,
+                "height": 210,
+                "unit": "mm"
+            },
+            "A6": {
+                "width": 105,
+                "height": 148,
+                "unit": "mm"
+            },
+            "A7": {
+                "width": 74,
+                "height": 105,
+                "unit": "mm"
+            },
+            "Letter": {
+                "width": 216,
+                "height": 279,
+                "unit": "mm"
+            },
+            "Legal": {
+                "width": 216,
+                "height": 356,
+                "unit": "mm"
+            },
+            "Tabloid": {
+                "width": 279,
+                "height": 432,
+                "unit": "mm"
+            },
+            "Ledger": {
+                "width": 432,
+                "height": 279,
+                "unit": "mm"
+            }
+        }
+    }
+}

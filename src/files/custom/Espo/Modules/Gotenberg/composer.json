@@ -1,0 +1,21 @@
+{
+    "name": "dubas-pro/ext-gotenberg",
+    "require": {
+        "gotenberg/gotenberg-php": "^2.9"
+    },
+    "replace": {
+        "guzzlehttp/psr7": "*",
+        "psr/http-client": "*",
+        "psr/http-message": "*"
+    },
+    "extra": {
+        "discovery": {
+            "psr/http-factory-implementation": "GuzzleHttp\\Psr7\\HttpFactory"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arkadiy Asuratov"
+        }
+    ]
+}

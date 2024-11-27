@@ -1,0 +1,19 @@
+{
+    "module": "Gotenberg",
+    "name": "Gotenberg",
+    "description": "PDF Engine for EspoCRM using Gotenberg, a Docker-powered stateless API for PDF files.",
+    "author": "dubas s.c. - contact@dubas.pro",
+    "bundled": false,
+    "authors": [
+        "Arkadiy Asuratov",
+        "Emil Dubielecki"
+    ],
+    "acceptableVersions": [
+        ">=8.1.0 <9.0.0"
+    ],
+    "php": [
+        "~8.1.0 || ~8.2.0 || ~8.3.0"
+    ],
+    "releaseDate": "2024-11-17",
+    "checkVersionUrl": "https://api.dubas.pro"
+}
